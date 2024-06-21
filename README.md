@@ -41,5 +41,5 @@ some of the questions I managed to answer through my data analysis process are:
 I went the extra mile and created a subset and investigated the Arabic Movies.
 
 # Arabic Movies Questions:
-What is the highest vote average in Arabic movies, What is its genre?
-What is the highest vote count in Arabic movies, What is its genre?
+- What is the highest vote average in Arabic movies, What is its genre?
+- What is the highest vote count in Arabic movies, What is its genre?
