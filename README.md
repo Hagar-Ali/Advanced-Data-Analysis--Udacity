@@ -9,7 +9,7 @@
   5. Data Visualization
      In this part, I implemented data visualization principles to the data analysis process. I used data analysis and visualization to tell a story with data.
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA Project:
 
 
   I've used the patient investigation dataset and implemented EDA and data profiling using Python libraries such as Numpyو Pandas and Matplotlib, which helped me understand the data and highlight some data discrepancies.
@@ -20,7 +20,7 @@
 - How many females and males reserved an appointment? Did they show up?
 - Did ending SMS to patients make an impact on showing up?
   
-## Data Visualization 
+## Data Visualization Project:
 
 In this project, I've used IMDB Movies Dataset: 
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
